@@ -1,3 +1,3 @@
 # testrepo
 Testing repository
-This is thr first markdown file
+This is the first markdown file
